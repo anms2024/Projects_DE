@@ -1,0 +1,4 @@
+store,trained_on_days,model_path
+Store 1,30,models/Store_1_model.pkl
+Store 2,30,models/Store_2_model.pkl
+Store 3,30,models/Store_3_model.pkl
